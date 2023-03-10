@@ -1,5 +1,7 @@
 ![](pixmaps/xgcom.png)
 
+this README.md FILE should rename README;then  config build ok
+
 A gui tools to help guys develop series port, like minicom
 
 # Intro：
